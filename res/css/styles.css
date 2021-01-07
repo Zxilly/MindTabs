@@ -36,6 +36,7 @@
         --rgb-pink: 230,64,95;
     }
 }
+
 :root {
     --accent: #1FB5AD;
     --border: #3E3E3E;
@@ -70,4 +71,8 @@
         --rgb-blue: 102,163,204;
         --rgb-magenta: 184,102,204;
         --rgb-pink: 204,102,163;
+}
+
+path.top-status-svg {
+    fill: var(--fg);
 }
